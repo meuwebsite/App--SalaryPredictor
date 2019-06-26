@@ -5,23 +5,26 @@
 #
 
 
-![a](static/css/salarypredictor1.png)
+![a](static/css/salarypredictor2.png)
 
 #
 
 ## Background
-Web-app that recieve a input text and return text in Json format, WordCloud Image as well in a API
-
+Web-app that takes the JSON data while POST request an performs the prediction using loaded model and returns
+the results in JSON format.
 
 
 ## Goals
 
-Extract a user input in text format
-Use library such spicy and textblob to find the keys and sort
-Create WordCloud visualization and string to return
-Create a back-end with Flask
-Create a Front-end with Bootstrap
 
+* Create a Front-end with Bootstrap
+* Extract a user input in text format
+* Use Sklearn library to import and apply Linear Regression on the data set
+* Train and Test the model
+* Save the model into Pickle file
+* Create a back-end with Flask
+* Create a route to Run the input in the model
+* Return the predicted salary based on years of experience
 
 
 ## Run Locally

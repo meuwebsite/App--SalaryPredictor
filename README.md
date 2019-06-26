@@ -28,7 +28,7 @@ the results in JSON format.
 
 
 ## Run Locally
-Run this command git clone https://github.com/meuwebsite/AppNLPiffy/
+Run this command git clone https://github.com/meuwebsite/App--SalaryPredictor/
 
 Make sure you have installed in your computer all libraries used above
 
